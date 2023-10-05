@@ -10,6 +10,10 @@ Django React Application with Spotify API
 
 4. After one's access token has expired, we request a new one using the refresh token (stays constant) to continue interacting with the Spotify API
 
+
+![house_party](https://github.com/abhayrathiisgod/party-house/assets/86717847/06ae2461-05fa-4679-825f-d761c2da6331)
+
+
 # Try It
 
 https://house-party-spotify.herokuapp.com/
