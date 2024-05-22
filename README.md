@@ -14,10 +14,6 @@ Django React Application with Spotify API
 ![house_party](https://github.com/abhayrathiisgod/party-house/assets/86717847/06ae2461-05fa-4679-825f-d761c2da6331)
 
 
-# Try It
-
-https://house-party-spotify.herokuapp.com/
-
 ## Setup Instructions
 
 ### Install Required Python Modules
